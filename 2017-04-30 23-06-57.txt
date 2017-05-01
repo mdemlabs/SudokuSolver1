@@ -1,0 +1,3 @@
+push: 12 4 - StackSize: 1
+pop: 12 4 - StackSize: 0
+push: 12 7 - StackSize: 1
